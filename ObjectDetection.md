@@ -4,7 +4,7 @@
 
 |No.   |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:----:|:---:|
-||<img src="images/detnet.png" width="300px"/>|**DetNet: A Backbone network for Object Detection**|Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun,<br>Tsinghua University & Megvii Inc|Arxiv|[arxiv](https://arxiv.org/abs/1804.06215) [code:none]()|
+||<img src="images/detnet.png" width="500px"/>|**DetNet: A Backbone network for Object Detection**|Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun,<br>Tsinghua University & Megvii Inc|Arxiv|[arxiv](https://arxiv.org/abs/1804.06215) [code:none]()|
 ||<img src="images/CVPR2018 Cross-Domain Weakly-Superivsed Object Detection.png" width="300px"/>|**Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation**|Naoto Inoue, Ryosuke Furuta, Toshihiko Yamasaki, Kiyoharu Aizawa, <br>The University of Tokyo, Japan |CVPR 2018 | [arxiv]() [github:tensorflow](https://github.com/naoto0804/cross-domain-detection)|
 ||<img src="images/realitygap_domainrandom.png" width="300px"/>|**Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization**|Jonathan Tremblay, Aayush Prakash, David Acuna, Mark Brophy, Varun Jampani, Cem Anil, Thang To, Eric Cameracci, Shaad Boochoon, Stan Birchfield, <br>NVIDIA |CVPR 2018 Workshop | [arxiv](https://arxiv.org/abs/1804.06516) [github:none]()|
 ||<img src="images/yolov3.png" width="300px"/>|**YOLOv3: An Incremental Improvement**|Naoto Inoue, Ryosuke Furuta, Toshihiko Yamasaki, Kiyoharu Aizawa, <br>University of Washington |arxiv | [arxiv](https://arxiv.org/abs/1804.02767) [github:darknet](https://pjreddie.com/darknet/yolo/)|
