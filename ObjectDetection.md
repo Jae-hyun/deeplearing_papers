@@ -1,7 +1,7 @@
 ## Object Detection
 
 |Method   |backbon   |AP	|AP_50|AP_S|AP_M|AP_L  |Speed|
-|-----|:-----:|:-----:|:-----:|:----:|:---:|
+|-----|:-----:|:-----:|:-----:|:----:|:---:|:---:|:---:|
 |FRCNN | ResNet-101| 32.1 || 12.8 | 34.9 | 46.1|7FPS(TitanX)|
 |SSD300| VGG16|25.1|43.1||||46FPS(Titan X)
 |SSD512| VGG16|28.8|48.5||||19FPS(Titan X)
@@ -23,7 +23,7 @@
 
 ### Resources
 |No.   |Algorithm     |Title  ||Date|
-|-----|:-----:|:-----:|:-----:|:----:|:---:|
+|-----|:-----:|:-----:|:-----:|:----:|
 ||Faster R-CNN|
 ||SSD|[Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)||2017.11.18|
 ||YOLO|[What’s new in YOLO v3?](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)||2018.04.23|
